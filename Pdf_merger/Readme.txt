@@ -5,6 +5,6 @@ To execute the code:
 
 open cmd and open the directory the program is saved in.
 
-use the command: Python JPGtoPNGConverter.py pdf1.pdf pdf2.pdf pdf3.pdf
+use the command: Python Pdf_merger.py pdf1.pdf pdf2.pdf pdf3.pdf
                   or
-                 Python3 JPGtoPNGConverter.py pdf1.pdf pdf2.pdf pdf3.pdf
+                 Python3 Pdf_merger.py pdf1.pdf pdf2.pdf pdf3.pdf
